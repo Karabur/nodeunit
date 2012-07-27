@@ -128,6 +128,6 @@ else {
 
 testrunner.run(files, options, function(err) {
     if (err) {
-        process.exit(1);
+//        process.exit(1);
     }
 });
